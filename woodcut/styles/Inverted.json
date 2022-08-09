@@ -23,12 +23,12 @@
 			"duotone": [
 				{
 					"colors": [
-						"#fff",
-						"#fff",
-						"#fff",
 						"#000",
 						"#000",
-						"#000"
+						"#000",
+						"#fff",
+						"#fff",
+						"#fff"
 					],
 					"name": "Default filter",
 					"slug": "default-filter"
