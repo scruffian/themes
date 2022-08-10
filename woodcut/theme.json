@@ -308,8 +308,8 @@
 				},
 				"spacing": {
 					"margin": {
-						"top": "3em",
-						"bottom": "3em"
+						"top": "5vw",
+						"bottom": "5vw"
 					}
 				}
 			},

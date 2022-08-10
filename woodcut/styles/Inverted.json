@@ -299,8 +299,8 @@
 				},
 				"spacing": {
 					"margin": {
-						"bottom": "3em",
-						"top": "3em"
+						"bottom": "5vw",
+						"top": "5vw"
 					}
 				}
 			},
