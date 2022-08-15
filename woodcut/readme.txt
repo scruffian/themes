@@ -29,3 +29,11 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+This theme bundles the following third-party resources:
+
+Image for theme screenshot, Credit Ben Dwyer
+License: CC0 1.0 Universal (CC0 1.0)
+License URL: https://creativecommons.org/publicdomain/zero/1.0/
+Sources: https://scruffian.files.wordpress.com/2022/08/pxl_20220809_131513523.jpg
+         https://scruffian.files.wordpress.com/2022/08/img_20220120_095150.jpg
