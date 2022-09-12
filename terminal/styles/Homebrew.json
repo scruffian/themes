@@ -1,0 +1,41 @@
+{
+
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "rgb(126,249,85)",
+					"name": "Foreground",
+					"slug": "foreground"
+				},
+				{
+					"color": "#000000",
+					"name": "Background",
+					"slug": "background"
+				}
+			]
+		}
+	},
+	"styles": {
+		"blocks": {
+			"core/navigation": {
+				"elements": {
+					"link": {
+						"color": {
+							"text": "revert"
+						}
+					}
+				}
+			}
+		},
+		"elements": {
+			"link": {
+				"color": {
+					"text": "revert"
+				}
+			}
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/trunk/theme.json"
+}
