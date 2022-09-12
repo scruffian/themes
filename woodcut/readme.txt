@@ -12,7 +12,7 @@ A theme inspired by relief printing.
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.1 =
 * Initial release
 
 == Copyright ==
