@@ -1,4 +1,4 @@
-=== Terminal ===
+=== Console ===
 Contributors: Scruffian
 Requires at least: 6.1
 Tested up to: 6.1
@@ -17,8 +17,8 @@ A theme that tries to mimic the look of a terminal.
 
 == Copyright ==
 
-Terminal WordPress Theme, (C) 2022 Scruffian
-Terminal is distributed under the terms of the GNU GPL.
+Console WordPress Theme, (C) 2022 Scruffian
+Console is distributed under the terms of the GNU GPL.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
