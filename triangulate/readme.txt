@@ -1,7 +1,7 @@
 === Triangulate ===
 Contributors: Scruffian
-Requires at least: 5.8
-Tested up to: 5.9
+Requires at least: 6.1
+Tested up to: 6.1
 Requires PHP: 5.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,3 +29,15 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
+
+This theme bundles the following third-party resources:
+
+Inter Font
+Copyright (c) 2016-2020 The Inter Project Authors.
+License: SIL Open Font License, 1.1, https://opensource.org/licenses/OFL-1.1
+Source: https://github.com/rsms/inter
+
+Triangulate Font
+Copyright 2022 Ben Dwyer (http://www.scruffian.com/)
+License: GPLv2
+Source: https://github.com/scruffian/triangulate
