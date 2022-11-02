@@ -12,8 +12,11 @@ Inspired by triangles
 
 == Changelog ==
 
+= 1.0.1 =
+* Make 6.1 the required version.
+
 = 1.0.0 =
-* Initial release
+* Initial release.
 
 == Copyright ==
 
