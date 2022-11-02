@@ -12,6 +12,10 @@ Inspired by triangles
 
 == Changelog ==
 
+= 1.0.2 =
+* Remove hardcoded nav ref
+
+
 = 1.0.1 =
 * Make 6.1 the required version.
 
