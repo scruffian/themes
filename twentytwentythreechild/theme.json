@@ -1,0 +1,17 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 2,
+	"styles": {
+		"blocks": {
+			"core/post-content": {
+				"elements": {
+					"link": {
+						"color": {
+							"text": "#f00"
+						}
+					}
+				}
+			}
+		}
+	}
+}
